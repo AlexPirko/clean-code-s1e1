@@ -85,7 +85,8 @@ button {
   text-transform: uppercase;
 }
 
-.text-input {
+.text-input,
+.task-item .text-input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
