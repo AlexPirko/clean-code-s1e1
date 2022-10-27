@@ -20,9 +20,13 @@ body {
 }
 
 @media (max-width:768px) {
-.title-wrapper { text-align: center;
+
+  .title-wrapper { 
+    text-align: center;
+  }
+
 }
-}
+
 .main-wrapper {
   display: block;
   width: 500px;
